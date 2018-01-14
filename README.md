@@ -1,10 +1,11 @@
 # SuperBrain
 
-### 答题助手
+* 参考相关项目编写的辅助直播答题的答题助手
 
-### OCR文字识别
 
-[百度云](https://console.bce.baidu.com/ai)
+### 文字识别
+
+* [百度云OCR](https://console.bce.baidu.com/ai)
 
 
 <!--### 参考项目
